@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "node",
   "main": "app.js",
-  "start": "app.js",
+  "start": "node app.js",
   "dependencies": {
   },
   "author": "Felipe Tavares",
